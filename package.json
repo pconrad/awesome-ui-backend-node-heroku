@@ -21,7 +21,7 @@
     "pg-hstore": "^2.3.2",
     "request": "^2.58.0",
     "sequelize": "^3.3.2",
-    "project-awesome": "git://github.com/wolfenbarger/project-awesome.git",
+    "project-awesome": "1.0.0",
     "underscore": "^1.8.3"
   },
   "engines": {
